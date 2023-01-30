@@ -97,6 +97,8 @@ class _notificationpageState extends State<notificationpage> {
           )
             ,),
           Text('07:15 am',style: TextStyle(fontSize: 10,
+
+
           )
             ,),
         ],
